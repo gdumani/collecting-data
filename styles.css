@@ -63,7 +63,7 @@ header{
 }
 .more-info{
     font-size: 10px;
-    color: #0077c5;
+    text-decoration: none;
 }
 #form-header{
     border: none;
@@ -108,7 +108,21 @@ input{
 
 #footer{
     font-size: 14px;
-
+}
+.external-links{
+    display: inline-block;
+    margin-top: 2%;
+    width: 350px;
+}
+.footer-links{
+    padding: 3%;
+    color: #505050;
+}
+.footer-links:visited{
+    color:inherit;
+}
+a{
+    text-decoration: none;
 }
 #legal{
     font-size: 12px;
