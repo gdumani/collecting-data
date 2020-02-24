@@ -8,7 +8,7 @@ Exercise following TheOdinProject guidelines on creating HTML forms for data col
 
 ![screenshot](./images/project-screenshot.png)
 
-This project consists of...:
+#This project consists of:
 - Creating a form to collect user information.
 - Learn how to use the HTML data collecting elements.
 - Apply styles to form elements.
