@@ -6,7 +6,7 @@ Exercise following TheOdinProject guidelines on creating HTML forms for data col
 
 >This project is about replicating the Log In page for Intuit.
 
-![screenshot]()
+![screenshot](./images/project-screenshot.png)
 
 This project consists of...:
 - Creating a form to collect user information.
