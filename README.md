@@ -9,13 +9,15 @@ Exercise following TheOdinProject guidelines on creating HTML forms for data col
 ![screenshot]()
 
 This project consists of...:
-
+- Creating a form to collect user information.
+- Learn how to use the HTML data collecting elements.
+- Apply styles to form elements.
 
 #Built With:
 
 HTML & CSS 
 Live Demo: 
-
+https://gdumani.github.io/collecting-data/
 
 
 #Authors:
