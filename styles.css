@@ -26,11 +26,11 @@ header{
     border-radius: 4px;
     color: #ffffff;
     font-size: 14px;
- /*   height: 38px; */
+    height: 38px;
     position: absolute;
     right: 15px;
     top: 17px;
- /*   width: 100px;  */  
+    width: 100px;  
 }
 .intuit-logo{
     height: 100px;
